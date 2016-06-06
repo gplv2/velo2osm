@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-06-05T23:35:02Z"/>
+
+  <node id="248777652" lat="51.2178200" lon="4.4206500" version="8" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="32"/>
+    <tag k="name" v="Centraal Station - Astrid"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="001"/>
+  </node>
+  <node id="357179926" lat="51.2290388" lon="4.4249355" version="5" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Park Spoor Noord 2"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="123"/>
+  </node>
+  <node id="357181607" lat="51.2274604" lon="4.4305338" version="6" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Stuivenbergplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="121"/>
+  </node>
+  <node id="1297523317" lat="51.2056090" lon="4.4322102" version="6" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Draakplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="106"/>
+  </node>
+  <node id="1320554837" lat="51.2027798" lon="4.4288290" version="4" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="20"/>
+    <tag k="name" v="Cuperus"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="097"/>
+  </node>
+  <node id="1322712412" lat="51.2017779" lon="4.4060646" version="3" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="17"/>
+    <tag k="name" v="Lozana"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="029"/>
+  </node>
+  <node id="1322712422" lat="51.2022849" lon="4.4120701" version="3" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="20"/>
+    <tag k="name" v="Harmonie"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="042"/>
+  </node>
+  <node id="1322712441" lat="51.2045467" lon="4.4047743" version="3" timestamp="2015-11-12T14:47:00Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Ballaarstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="090"/>
+  </node>
+  <node id="1322712450" lat="51.1984259" lon="4.4022302" version="3" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Hof van Leysen"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="089"/>
+  </node>
+  <node id="1324336878" lat="51.2045096" lon="4.4106340" version="3" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Sint-Thomas"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="092"/>
+  </node>
+  <node id="1324336881" lat="51.2088235" lon="4.4082974" version="4" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Hemelstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="091"/>
+  </node>
+  <node id="1326346723" lat="51.2285784" lon="4.4133071" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="29"/>
+    <tag k="name" v="FOD Financiën"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="127"/>
+  </node>
+  <node id="1326346726" lat="51.2187202" lon="4.4385665" version="2" timestamp="2014-10-20T09:16:36Z" changeset="26208809" uid="137772" user="Ben Abelshausen">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="Vercammenstraat - Helmstraat"/>
+    <tag k="network" v="Velo"/>
+  </node>
+  <node id="1326348404" lat="51.2082078" lon="4.4242940" version="3" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Mercator"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="104"/>
+  </node>
+  <node id="1328827956" lat="51.2258377" lon="4.4146195" version="5" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Waaslandtunnel"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="052"/>
+  </node>
+  <node id="1330016205" lat="51.2117736" lon="4.4377860" version="4" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Montgomery"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="132"/>
+  </node>
+  <node id="1330203182" lat="51.2092032" lon="4.4030115" version="3" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Oud Gerechtshof"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="078"/>
+  </node>
+  <node id="1330203184" lat="51.2110345" lon="4.4072607" version="3" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Nationale Bank"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="079"/>
+  </node>
+  <node id="1330203187" lat="51.2077529" lon="4.3985096" version="3" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Brederode"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="083"/>
+  </node>
+  <node id="1330951810" lat="51.1970601" lon="4.4102647" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Generaal Leman"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="099"/>
+  </node>
+  <node id="1330951823" lat="51.1929451" lon="4.4210339" version="2" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Oude Kerk Berchem"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="103"/>
+  </node>
+  <node id="1330951836" lat="51.1931192" lon="4.4080295" version="3" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Wezenberg"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="031"/>
+  </node>
+  <node id="1330951845" lat="51.1948511" lon="4.4166004" version="2" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="33"/>
+    <tag k="name" v="Van Hombeeckplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="100"/>
+  </node>
+  <node id="1331085413" lat="51.2010758" lon="4.4339477" version="5" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="34"/>
+    <tag k="name" v="NMBS Berchem"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="007"/>
+  </node>
+  <node id="1333740410" lat="51.2295815" lon="4.4113493" version="3" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Willemdok"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="133"/>
+  </node>
+  <node id="1341736310" lat="51.2181870" lon="4.4061681" version="3" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="35"/>
+    <tag k="name" v="Meirbrug"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="018"/>
+  </node>
+  <node id="1341736311" lat="51.2164537" lon="4.4059265" version="3" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Bourla"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="036"/>
+  </node>
+  <node id="1341736312" lat="51.2090277" lon="4.4326252" version="3" timestamp="2015-11-12T14:47:14Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Plantin en Moretus"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="105"/>
+  </node>
+  <node id="1341736313" lat="51.2199779" lon="4.4163305" version="3" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Roosevelt"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="011"/>
+  </node>
+  <node id="1351780722" lat="51.2220531" lon="4.4337780" version="3" timestamp="2015-11-12T14:47:20Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="ZNA Stuivenberg"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="114"/>
+  </node>
+  <node id="1411578530" lat="51.2281120" lon="4.4057286" version="4" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="MAS"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="134"/>
+  </node>
+  <node id="1423792358" lat="51.2011405" lon="4.4022122" version="4" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="20"/>
+    <tag k="name" v="Haantjeslei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="088"/>
+  </node>
+  <node id="1436310116" lat="51.2148478" lon="4.3963442" version="3" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="29"/>
+    <tag k="name" v="Sint Andries"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="070"/>
+  </node>
+  <node id="1682209845" lat="51.2058324" lon="4.3988127" version="3" timestamp="2015-11-12T14:47:03Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Den Bell"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="085"/>
+  </node>
+  <node id="1863174275" lat="51.2134414" lon="4.4049666" version="4" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Elzenveld"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="084"/>
+  </node>
+  <node id="1863174276" lat="51.2087746" lon="4.3873730" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Fotografiemuseum"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="082"/>
+  </node>
+  <node id="1863174277" lat="51.2188842" lon="4.4011970" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Groenplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="017"/>
+  </node>
+  <node id="1863174278" lat="51.2210992" lon="4.3968045" version="3" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Het Steen"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="059"/>
+  </node>
+  <node id="1863174279" lat="51.2110151" lon="4.3903437" version="4" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="26"/>
+    <tag k="name" v="M HKA"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="034"/>
+  </node>
+  <node id="1863174280" lat="51.2170887" lon="4.3992514" version="3" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Modemuseum"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="066"/>
+  </node>
+  <node id="1863174281" lat="51.2157784" lon="4.4031420" version="3" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="23"/>
+    <tag k="name" v="Oudaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="067"/>
+  </node>
+  <node id="1863174282" lat="51.2164346" lon="4.3936910" version="3" timestamp="2015-11-12T14:47:14Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Plantinkaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="065"/>
+  </node>
+  <node id="1863174283" lat="51.2078221" lon="4.3943923" version="3" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Schone Kunsten"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="015"/>
+  </node>
+  <node id="1863174288" lat="51.2152288" lon="4.3928188" version="3" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Sint-Michielskaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="071"/>
+  </node>
+  <node id="1863174290" lat="51.2097670" lon="4.3909306" version="3" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Vlaamsekaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="075"/>
+  </node>
+  <node id="1863174291" lat="51.2190921" lon="4.3948993" version="3" timestamp="2015-11-12T14:47:20Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Zuiderterras"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="064"/>
+  </node>
+  <node id="1867696249" lat="51.1998399" lon="4.4189302" version="3" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Haringrode"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="098"/>
+  </node>
+  <node id="1868415299" lat="51.2130107" lon="4.4217329" version="3" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Centraal Station - Kievit"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="005"/>
+  </node>
+  <node id="1872520876" lat="51.1984697" lon="4.3907183" version="3" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="NMBS Zuid"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="010"/>
+  </node>
+  <node id="1872640193" lat="51.2007312" lon="4.3942139" version="3" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Lange Elzen"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="087"/>
+  </node>
+  <node id="1895277225" lat="51.2215876" lon="4.4005127" version="3" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Grote Markt"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="060"/>
+  </node>
+  <node id="1895277226" lat="51.2046807" lon="4.3876720" version="3" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Justitiepaleis"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="081"/>
+  </node>
+  <node id="1895277229" lat="51.2170842" lon="4.4088807" version="3" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="20"/>
+    <tag k="name" v="Rubenshuis"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="023"/>
+  </node>
+  <node id="1895277230" lat="51.2215417" lon="4.4026667" version="3" timestamp="2015-11-12T14:47:20Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Wolstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="057"/>
+  </node>
+  <node id="2036828740" lat="51.2173639" lon="4.4200944" version="2" timestamp="2015-11-12T14:47:03Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="De Keyserlei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="004"/>
+  </node>
+  <node id="2036828745" lat="51.2247088" lon="4.4365672" version="2" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Schijnpoort"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="122"/>
+  </node>
+  <node id="2066573394" lat="51.1937563" lon="4.4121529" version="2" timestamp="2015-11-12T14:47:03Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="De Wittestraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="131"/>
+  </node>
+  <node id="2199853633" lat="51.2254194" lon="4.4184044" version="2" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Sint-Jansplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="117"/>
+  </node>
+  <node id="2266031798" lat="51.2221873" lon="4.4045876" version="2" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Minderbroedersrui"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="56"/>
+  </node>
+  <node id="2268045820" lat="51.2033490" lon="4.3923480" version="4" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Troonplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="086"/>
+  </node>
+  <node id="2319666326" lat="51.2186595" lon="4.4006832" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Groenplaats 2"/>
+    <tag k="network" v="Velo"/>
+    <tag k="note" v="Velo has these coordinates wrong"/>
+    <tag k="ref" v="020"/>
+  </node>
+  <node id="2319666331" lat="51.2036840" lon="4.4152810" version="3" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Grétrystraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="043"/>
+  </node>
+  <node id="2319666336" lat="51.2100960" lon="4.4172160" version="2" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Loosplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="116"/>
+  </node>
+  <node id="2321856875" lat="51.2175800" lon="4.4207500" version="3" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Centraal Station - Astrid 2"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="002"/>
+  </node>
+  <node id="2335442376" lat="51.2141514" lon="4.4163195" version="2" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Quinten Matsijslei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="095"/>
+  </node>
+  <node id="2335442377" lat="51.2054100" lon="4.4135600" version="2" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Sint Vincentius"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="093"/>
+  </node>
+  <node id="2335442378" lat="51.2132821" lon="4.4131095" version="2" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Stadspark"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="096"/>
+  </node>
+  <node id="2346308570" lat="51.2184804" lon="4.3855496" version="3" timestamp="2015-12-07T22:13:24Z" changeset="35816933" uid="465368" user="miknes">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Beatrijslaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="153"/>
+  </node>
+  <node id="2346308576" lat="51.2200730" lon="4.3755901" version="2" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="33"/>
+    <tag k="name" v="Blancefloerlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="152"/>
+  </node>
+  <node id="2346308581" lat="51.2278422" lon="4.3785508" version="4" timestamp="2015-11-12T14:47:03Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="23"/>
+    <tag k="name" v="De Coster"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="145"/>
+    <tag k="website" v="http://www.velo-antwerpen.be"/>
+  </node>
+  <node id="2346308588" lat="51.2239187" lon="4.3778767" version="2" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Halewijnlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="147"/>
+  </node>
+  <node id="2346308593" lat="51.2048000" lon="4.3961000" version="3" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Paleisstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="094"/>
+  </node>
+  <node id="2346308598" lat="51.2277788" lon="4.3858905" version="2" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="32"/>
+    <tag k="name" v="Reinaartlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="146"/>
+  </node>
+  <node id="2346308602" lat="51.2203130" lon="4.3784071" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Van Cauwelaert"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="151"/>
+  </node>
+  <node id="2346308607" lat="51.2206131" lon="4.3863320" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="35"/>
+    <tag k="name" v="Van Eedenplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="149"/>
+  </node>
+  <node id="2346308612" lat="51.2231982" lon="4.3862201" version="3" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Verhaerenlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="148"/>
+  </node>
+  <node id="2346308616" lat="51.2200735" lon="4.3817233" version="2" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="23"/>
+    <tag k="name" v="Waterhoenlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="150"/>
+  </node>
+  <node id="2347130395" lat="51.1991037" lon="4.4155165" version="3" timestamp="2015-11-12T14:47:03Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="De Merode"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="046"/>
+  </node>
+  <node id="2351015385" lat="51.2130859" lon="4.4217713" version="4" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Centraal station Kievit 2"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="003"/>
+  </node>
+  <node id="2352086524" lat="51.2069432" lon="4.4301017" version="2" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Dageraadplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="110"/>
+  </node>
+  <node id="2370252734" lat="51.2089652" lon="4.4377009" version="4" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="NMBS Oost"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="009"/>
+  </node>
+  <node id="2370253619" lat="51.2034463" lon="4.4368408" version="3" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Pretoriastraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="112"/>
+  </node>
+  <node id="2370326287" lat="51.2112828" lon="4.4419905" version="2" timestamp="2013-11-05T08:20:31Z" changeset="18724601" uid="233248" user="zors1843">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="35"/>
+    <tag k="name" v="Fonteinstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="060"/>
+  </node>
+  <node id="2370326636" lat="51.2102000" lon="4.4274000" version="3" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Van Der Meyden"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="111"/>
+  </node>
+  <node id="2370327931" lat="51.2153718" lon="4.4253679" version="3" timestamp="2015-11-12T14:47:14Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Ploeg"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="119"/>
+  </node>
+  <node id="2411969002" lat="51.2259556" lon="4.4234742" version="4" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Sint-Norbertus"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="125"/>
+  </node>
+  <node id="2417638778" lat="51.2312671" lon="4.3786698" version="3" timestamp="2015-11-12T14:47:00Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="August Vermeylenlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="144"/>
+    <tag k="website" v="https://www.velo-antwerpen.be/"/>
+  </node>
+  <node id="2418981419" lat="51.2334400" lon="4.3825421" version="5" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Esmoreitlaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="142"/>
+    <tag k="website" v="http://www.velo-antwerpen.be"/>
+  </node>
+  <node id="2518957056" lat="51.1968130" lon="4.4056890" version="2" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Markgrave"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="014"/>
+  </node>
+  <node id="2518970266" lat="51.2192400" lon="4.4036100" version="2" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Eiermarkt"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="019"/>
+  </node>
+  <node id="2518996768" lat="51.1998082" lon="4.4306666" version="2" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="33"/>
+    <tag k="name" v="Statie"/>
+    <tag k="network" v="Velo"/>
+    <tag k="note" v="Velo has these coordinates wrong"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="022"/>
+  </node>
+  <node id="2519002223" lat="51.2179141" lon="4.4165502" version="2" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Opera"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="024"/>
+  </node>
+  <node id="2519017349" lat="51.2184220" lon="4.4154473" version="2" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Teniersplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="025"/>
+  </node>
+  <node id="2519517349" lat="51.2195029" lon="4.4119492" version="2" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Lange Nieuwstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="027"/>
+  </node>
+  <node id="2519521252" lat="51.2214880" lon="4.4086597" version="3" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="22"/>
+    <tag k="name" v="Keizerstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="028"/>
+  </node>
+  <node id="2519530069" lat="51.2163185" lon="4.4335183" version="2" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Het Laar"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="030"/>
+  </node>
+  <node id="2519531400" lat="51.2217349" lon="4.4207084" version="2" timestamp="2015-11-12T14:47:14Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Permeke"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="032"/>
+  </node>
+  <node id="2519535660" lat="51.2262184" lon="4.4096458" version="2" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Hessenhuis"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="033"/>
+  </node>
+  <node id="2519535665" lat="51.2121400" lon="4.3898000" version="2" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Cockerillkaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="035"/>
+  </node>
+  <node id="2519540444" lat="51.2155935" lon="4.4123720" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Theater"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="037"/>
+  </node>
+  <node id="2519552586" lat="51.2110591" lon="4.4340959" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Koxplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="039"/>
+  </node>
+  <node id="2519561510" lat="51.1967619" lon="4.3966191" version="2" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Desguinlei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="040"/>
+  </node>
+  <node id="2519561511" lat="51.2108020" lon="4.4116060" version="3" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Van Eyck"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="041"/>
+  </node>
+  <node id="2519575297" lat="51.2311460" lon="4.3861790" version="2" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Melis Stokelaan"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="143"/>
+  </node>
+  <node id="2519575298" lat="51.2314227" lon="4.3916270" version="2" timestamp="2015-11-12T14:47:07Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Jachthaven LO"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="140"/>
+  </node>
+  <node id="2519575299" lat="51.2352526" lon="4.3868754" version="2" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Sint - Anna"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="141"/>
+  </node>
+  <node id="2519960856" lat="51.2268231" lon="4.4005512" version="2" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Loodswezen"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="135"/>
+  </node>
+  <node id="2519960861" lat="51.2297790" lon="4.4057480" version="2" timestamp="2015-11-12T14:47:16Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="35"/>
+    <tag k="name" v="Sint-Laureiskaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="137"/>
+  </node>
+  <node id="2519964999" lat="51.2310535" lon="4.4126694" version="3" timestamp="2015-11-12T14:47:09Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Londenstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="139"/>
+  </node>
+  <node id="2519965003" lat="51.2311985" lon="4.4035523" version="3" timestamp="2015-11-12T14:47:00Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="23"/>
+    <tag k="name" v="Amsterdamstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="138"/>
+  </node>
+  <node id="2519974189" lat="51.2284000" lon="4.4088000" version="3" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Godefriduskaai"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="129"/>
+  </node>
+  <node id="2519979203" lat="51.2280500" lon="4.4190158" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Lange Dijk"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="126"/>
+  </node>
+  <node id="2519984318" lat="51.2271421" lon="4.4222474" version="2" timestamp="2015-11-12T14:47:02Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Dambrugge"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="118"/>
+  </node>
+  <node id="2519989420" lat="51.2227544" lon="4.4241838" version="3" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Metro Elisabeth"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="115"/>
+  </node>
+  <node id="2519990490" lat="51.2224610" lon="4.4302567" version="2" timestamp="2015-11-12T14:47:04Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Duinstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="102"/>
+  </node>
+  <node id="2519993797" lat="51.2241000" lon="4.4320000" version="3" timestamp="2015-11-12T14:47:15Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Premetro Handel"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="101"/>
+  </node>
+  <node id="2520005358" lat="51.2275833" lon="4.4391725" version="1" timestamp="2013-11-04T17:22:19Z" changeset="18715250" uid="233248" user="zors1843">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="Eendracht"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="120"/>
+  </node>
+  <node id="2520031123" lat="51.2299620" lon="4.4196130" version="3" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Park Spoor Noord 1"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="124"/>
+  </node>
+  <node id="2520048584" lat="51.2186090" lon="4.4386220" version="2" timestamp="2015-11-12T14:47:06Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Helmstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="113"/>
+  </node>
+  <node id="2520062222" lat="51.2145710" lon="4.4436830" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Turnhoutsepoort"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="068"/>
+  </node>
+  <node id="2520638591" lat="51.2014058" lon="4.4237095" version="2" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Militair Hospitaal"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="047"/>
+  </node>
+  <node id="2520651340" lat="51.1978097" lon="4.4254065" version="2" timestamp="2015-11-12T14:47:19Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="33"/>
+    <tag k="name" v="Victor Jacobslei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="061"/>
+  </node>
+  <node id="2520658524" lat="51.1993060" lon="4.3901350" version="2" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Brussel"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="012"/>
+  </node>
+  <node id="2520659289" lat="51.2181580" lon="4.4122759" version="2" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Meir - Antoon Van Dijck"/>
+    <tag k="network" v="Velo"/>
+    <tag k="note" v="Velo has these coordinates wrong"/>
+    <tag k="ref" v="026"/>
+  </node>
+  <node id="2520681540" lat="51.2057210" lon="4.4181940" version="3" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Belgiëlei"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="044"/>
+  </node>
+  <node id="2520687210" lat="51.2258536" lon="4.4008562" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Tolhuis"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="049"/>
+  </node>
+  <node id="2520687214" lat="51.2268818" lon="4.4054976" version="2" timestamp="2015-11-12T14:47:05Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Falconplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="045"/>
+  </node>
+  <node id="2520693143" lat="51.2247054" lon="4.4129634" version="2" timestamp="2015-11-12T14:47:13Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Paardenmarkt"/>
+    <tag k="network" v="Velo"/>
+    <tag k="note" v="Velo has these coordinates wrong with +/- 30m"/>
+    <tag k="ref" v="053"/>
+  </node>
+  <node id="2520693148" lat="51.2228962" lon="4.4061129" version="3" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Mutsaardplein"/>
+    <tag k="network" v="Velo-antwerpen"/>
+    <tag k="ref" v="051"/>
+  </node>
+  <node id="2520693154" lat="51.2218554" lon="4.4129850" version="2" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Ossenmarkt"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="054"/>
+  </node>
+  <node id="2520693159" lat="51.2237328" lon="4.4030241" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Klapdorp"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="050"/>
+  </node>
+  <node id="2520703757" lat="51.1969772" lon="4.4282312" version="2" timestamp="2015-11-12T14:47:20Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="33"/>
+    <tag k="name" v="Zonnebloemstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="055"/>
+  </node>
+  <node id="2520706248" lat="51.2243894" lon="4.3990971" version="2" timestamp="2015-11-12T14:47:12Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="Noorderterras"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="058"/>
+  </node>
+  <node id="2520712750" lat="51.2140350" lon="4.3980930" version="3" timestamp="2015-11-12T14:47:14Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Prekersplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="076"/>
+  </node>
+  <node id="2520718421" lat="51.2118728" lon="4.3989862" version="2" timestamp="2015-11-12T14:47:18Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Tropisch Instituut"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="072"/>
+  </node>
+  <node id="2520722556" lat="51.2127530" lon="4.4094660" version="3" timestamp="2015-11-12T14:47:01Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Blauwtorenplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="077"/>
+  </node>
+  <node id="2520724732" lat="51.2060738" lon="4.3933898" version="2" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Montigny"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="080"/>
+  </node>
+  <node id="2520881122" lat="51.2136608" lon="4.4332766" version="2" timestamp="2015-11-12T14:47:11Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Moorkensplein"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="107"/>
+  </node>
+  <node id="2520881123" lat="51.2160230" lon="4.4399686" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Krugerpark"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="108"/>
+  </node>
+  <node id="2520881774" lat="51.2185796" lon="4.4305135" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Kerkstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="109"/>
+  </node>
+  <node id="2520887894" lat="51.2038000" lon="4.4208000" version="2" timestamp="2015-11-12T14:47:08Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="18"/>
+    <tag k="name" v="Lamorinière"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="130"/>
+  </node>
+  <node id="2521039863" lat="51.2101600" lon="4.3966130" version="2" timestamp="2015-11-12T14:47:10Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="27"/>
+    <tag k="name" v="Marnixplaats"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="016"/>
+  </node>
+  <node id="2866856881" lat="51.2100572" lon="4.4223896" version="2" timestamp="2014-10-20T18:19:37Z" changeset="26219741" uid="137772" user="Ben Abelshausen">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="Premetro Plantin"/>
+    <tag k="network" v="Velo"/>
+  </node>
+  <node id="2974011540" lat="51.2068511" lon="4.3967603" version="1" timestamp="2014-07-22T07:31:46Z" changeset="24287142" uid="233248" user="zors1843">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="083"/>
+  </node>
+  <node id="3130910489" lat="51.2201298" lon="4.4327048" version="2" timestamp="2014-10-20T18:21:15Z" changeset="26219775" uid="137772" user="Ben Abelshausen">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="Pastorijstraat"/>
+    <tag k="operator" v="Velo"/>
+  </node>
+  <node id="3140390808" lat="51.1938874" lon="4.4023395" version="1" timestamp="2014-10-20T18:28:09Z" changeset="26219889" uid="137772" user="Ben Abelshausen">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="De Singel"/>
+    <tag k="operator" v="Velo"/>
+  </node>
+  <node id="3140391054" lat="51.2318280" lon="4.4269780" version="3" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Station Dam"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="62"/>
+  </node>
+  <node id="3140471442" lat="51.2300140" lon="4.4315670" version="2" timestamp="2015-11-12T14:47:17Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="35"/>
+    <tag k="name" v="Slachthuis"/>
+    <tag k="network" v="Velo"/>
+    <tag k="operator" v="Velo"/>
+    <tag k="ref" v="63"/>
+  </node>
+  <node id="3832661570" lat="51.1938820" lon="4.4022450" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="De Singel"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="013"/>
+  </node>
+  <node id="3832661571" lat="51.1954820" lon="4.4191890" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="29"/>
+    <tag k="name" v="Driekoningen"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="021"/>
+  </node>
+  <node id="3832661572" lat="51.2111594" lon="4.4419645" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Fonteinstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="069"/>
+  </node>
+  <node id="3832661573" lat="51.2123090" lon="4.4037180" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="36"/>
+    <tag k="name" v="Maarschalk Gérard"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="073"/>
+  </node>
+  <node id="3832661574" lat="51.2010891" lon="4.4339584" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="30"/>
+    <tag k="name" v="NMBS Berchem 2"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="008"/>
+  </node>
+  <node id="3832661575" lat="51.2201570" lon="4.4326350" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="21"/>
+    <tag k="name" v="Pastorijstraat"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="038"/>
+  </node>
+  <node id="3832661576" lat="51.2103167" lon="4.4221800" version="1" timestamp="2015-11-12T14:46:59Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="24"/>
+    <tag k="name" v="Premetro Plantin"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="006"/>
+  </node>
+  <node id="3832661577" lat="51.2123342" lon="4.3940228" version="1" timestamp="2015-11-12T14:47:00Z" changeset="35262820" uid="497567" user="Glenn Plas">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="16"/>
+    <tag k="name" v="Vismijn"/>
+    <tag k="network" v="Velo"/>
+    <tag k="ref" v="074"/>
+  </node>
+
+</osm>
